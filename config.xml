@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <url>http://www.cybersec.ir</url>
+    <label>app1</label>
+    <sourceIp>172.16.74.11</sourceIp>
+    <destinationIp>172.16.163.196</destinationIp>
+    <destinationPort>22</destinationPort>
+    <userName>root</userName>
+    <password>123456</password>
+    <portList>443,80</portList>
+    <zone></zone>
+    <category></category>
+    <location></location>
+    <outputFileDirectory>F:</outputFileDirectory>
+</config>
